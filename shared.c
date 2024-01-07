@@ -1,0 +1,1 @@
+int sharedVariable[31];
